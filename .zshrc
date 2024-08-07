@@ -107,7 +107,7 @@ alias ls='ls --color'
 alias cpprun='function _cpprun() {g++ "$1" -o "${1%.*}.exe" && ./"${1%.*}.exe";}; _cpprun'
 alias c='clear'
 alias open='xdg-open'
-alias fzf='fzf --preview 'bat --style=numbers --color=always{}' | xargs -n 1 nvim'
+alias fzf='fzf --preview "bat --style=numbers --color=always {}" | xargs -n 1 nvim'
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
