@@ -1,5 +1,5 @@
 {
-  "editor.fontFamily": "monospace",
+  "editor.fontFamily": "Fira Code",
   "git.openRepositoryInParentFolders": "never",
   "editor.fontLigatures": false,
   "[javascript]": {
@@ -35,7 +35,7 @@
   "terminal.integrated.gpuAcceleration": "canvas",
   "editor.glyphMargin": false,
   "prettier.bracketSameLine": true,
-  "editor.folding": true,
+  "editor.folding": false,
   "advancedNewFile.exclude": {
     "node_modules": true,
     ".yarn": true
@@ -44,8 +44,6 @@
   "workbench.tree.enableStickyScroll": true,
   "typescript.updateImportsOnFileMove.enabled": "always",
   "indentRainbow.includedLanguages": ["python"],
-  "workbench.list.smoothScrolling": true,
-  "editor.smoothScrolling": true,
   "[prisma]": {
     "editor.defaultFormatter": "Prisma.prisma",
     "editor.formatOnSave": true
@@ -62,11 +60,10 @@
   "files.associations": {
     "*.css": "tailwindcss"
   },
-  "prisma.showPrismaDataPlatformNotification": false,
   "window.titleBarStyle": "custom",
   "window.zoomPerWindow": false,
   "prettier.singleQuote": true,
-  "window.zoomLevel": 1.3,
+  "window.zoomLevel": 1.6,
   "terminal.integrated.fontFamily": "Fira Code",
   "path-intellisense.showHiddenFiles": true,
   "files.autoSaveDelay": 2000,
@@ -77,6 +74,9 @@
     "asvetliakov.vscode-neovim": 1
   },
   "editor.lineNumbers": "relative",
-  "workbench.colorTheme": "poimandres",
+  "workbench.colorTheme": "Noir Poimandres",
   "editor.renderLineHighlight": "none",
+  "editor.showFoldingControls": "never",
+  "editor.cursorStyle": "block",
+  "editor.formatOnSave": true
 }
