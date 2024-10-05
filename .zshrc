@@ -134,3 +134,5 @@ eval "$(pyenv init -)"
 # bun
 export BUN_INSTALL="$HOME/.bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
+
+COREPACK_ENABLE_AUTO_PIN=0
