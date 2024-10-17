@@ -1,6 +1,6 @@
 general.import = [
-  # "~/.config/alacritty/catppuccin-mocha.toml",
-  # "~/.config/alacritty/gnome-terminal.toml"
+  # "~/.config/alacritty/themes/catppuccin-mocha.toml",
+  # "~/.config/alacritty/themes/gnome-terminal.toml"
 ]
 
 [window]
