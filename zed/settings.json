@@ -1,0 +1,45 @@
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run the `zed: Open Default Settings` command
+// from the command palette
+{
+    "vim_mode": true,
+    "assistant": {
+        "default_model": {
+            "provider": "zed.dev",
+            "model": "claude-3-5-sonnet-latest"
+        },
+        "version": "2"
+    },
+    "ui_font_size": 18,
+    "buffer_font_size": 18,
+    "theme": {
+        "mode": "system",
+        "light": "One Light",
+        "dark": "Catppuccin Mocha"
+    },
+    "indent_guides": {
+        "enabled": true,
+        "active_line_width": 2
+    },
+    "relative_line_numbers": true,
+    "tab_size": 4,
+    "ui_font_family": "Fira Code",
+    "buffer_font_family": "Fira Code",
+    "gutter": {
+        "folds": false
+    },
+    "ui_font_features": {
+        "calt": false
+    },
+    "format_on_save": "off",
+    "cursor_blink": false,
+    "outline_panel": {
+        "auto_fold_dirs": false
+    },
+    "vertical_scroll_margin": 8
+}
