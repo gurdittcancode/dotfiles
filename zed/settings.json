@@ -16,7 +16,7 @@
         "version": "2"
     },
     "ui_font_size": 18,
-    "buffer_font_size": 18,
+    "buffer_font_size": 19,
     "theme": {
         "mode": "system",
         "light": "One Light",
@@ -28,8 +28,8 @@
     },
     "relative_line_numbers": true,
     "tab_size": 4,
-    "ui_font_family": "Fira Code",
-    "buffer_font_family": "Fira Code",
+    "ui_font_family": "JetBrainsMono Nerd Font",
+    "buffer_font_family": "JetBrainsMono Nerd Font",
     "gutter": {
         "folds": false
     },

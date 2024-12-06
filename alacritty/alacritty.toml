@@ -4,7 +4,6 @@ general.import = [
 ]
 
 [window]
-opacity=0.95 
 [window.dimensions]
 columns=75
 lines=25
@@ -13,21 +12,8 @@ lines=25
 size=17.0
 
 [font.normal]
-family="DroidSansM Nerd Font Mono"
+family="JetBrainsMonoNerdFont"
 style="Medium"
-
-[font.bold]
-family= "DroidSansM Nerd Font Mono"
-style= "Bold"
-
-[font.italic]
-family= "DroidSansM Nerd Font Mono"
-style= "Italic"
-
-[font.bold_italic]
-family= "DroidSansM Nerd Font Mono"
-style= "BoldItalic"
-
 
 [terminal.shell]
 program= "/usr/bin/zsh"
