@@ -20,7 +20,7 @@
     "theme": {
         "mode": "system",
         "light": "One Light",
-        "dark": "Catppuccin Mocha"
+        "dark": "One Dark"
     },
     "indent_guides": {
         "enabled": true,
@@ -32,9 +32,6 @@
     "buffer_font_family": "JetBrainsMono Nerd Font",
     "gutter": {
         "folds": false
-    },
-    "ui_font_features": {
-        "calt": false
     },
     "format_on_save": "off",
     "cursor_blink": false,
